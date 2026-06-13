@@ -1,0 +1,77 @@
+{
+	"lib": [
+		"busybox",
+		"choco-upgrade-all-at-startup",
+		"chocolatey-core.extension",
+		"dotnet-sdk",
+		"dotnetfx",
+		"jadx",
+		"javaruntime",
+		"jq",
+		"jre8",
+		"netfx-4.8-devpack",
+		"nodejs",
+		"python3",
+		"visualstudio2019buildtools"
+	],
+	"hack": [
+		"aria2",
+		"adb",
+		"ffmpeg-full",
+		"fzf",
+		"nilesoft-shell",
+		"oh-my-posh",
+		"yt-dlp"
+	],
+	"core": [
+		"bitwarden",
+		"bulk-crap-uninstaller",
+		"copyq",
+		"espanso",
+		"everything",
+		"equalizerapo",
+		"flameshot",
+		"kdeconnect-kde",
+		"logitech-options",
+		"nanazip",
+		"notepadplusplus.commandline",
+		"powertoys",
+		"superf4",
+		"spotify",
+		"signal",
+		"transmission",
+		"flow-launcher",
+		"vlc",
+		"vscode-insiders",
+		"vscode-powershell"
+	],
+	"beta": [
+		"firefox-nightly --pre",
+		"firefox-beta --pre"
+	],
+	"sec": [
+		"brave",
+		"nirlauncher",
+		"nirext",
+		"sysinternals",
+		"volume2"
+	],
+	"ignore": [
+		"wsl",
+		"wsl-archlinux",
+		"box-drive",
+		"microsoft-teams",
+		"office365business",
+		"autohotkey",
+		"chocolateygui",
+		"netstat-viewer",
+		"scrcpy",
+		"sophiapp",
+		"switcheroo",
+		"syncthingtray",
+		"winget-cli",
+		"nvidia-display-driver",
+		"pdfxchangeeditor",
+		"wsl-ubuntu-2004"
+	]
+}
